@@ -1,6 +1,6 @@
 # Azure Cognitive Services Samples
 
-Custom Vision Service Prediction API using [Refit](https://github.com/paulcbetts/refit), .NET Core 2.0
+A simple .NET Core 2.0 (c# v7.1) code sample to invoke Azure's Custom Vision Service Prediction API using [Refit](https://github.com/paulcbetts/refit)
 
 ## Getting started
 * Visual Studio 2017 (v15.3.3), .NET Core 2.0 installed
